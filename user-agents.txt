@@ -1,0 +1,30 @@
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36  
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/15.1 Safari/605.1.15  
+Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/118.0  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/119.0.0.0 Safari/537.36  
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/537.36 Chrome/118.0.5993.90 Safari/537.36  
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:117.0) Gecko/20100101 Firefox/117.0  
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 Chrome/117.0.0.0 Safari/537.36  
+Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36  
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 Version/16.0 Mobile/15E148 Safari/604.1  
+Mozilla/5.0 (iPad; CPU OS 15_6 like Mac OS X) AppleWebKit/605.1.15 Version/15.6 Mobile/15E148 Safari/604.1  
+Mozilla/5.0 (Linux; Android 10; Pixel 4 XL) AppleWebKit/537.36 Chrome/118.0.0.0 Mobile Safari/537.36  
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:115.0) Gecko/20100101 Firefox/115.0  
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 Chrome/116.0.5845.96 Safari/537.36  
+Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 Chrome/117.0.0.0 Mobile Safari/537.36  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/114.0.5735.198 Safari/537.36  
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6_1) AppleWebKit/605.1.15 Version/16.1 Safari/605.1.15  
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/113.0.0.0 Safari/537.36  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:114.0) Gecko/20100101 Firefox/114.0  
+Mozilla/5.0 (Linux; Android 13; Pixel 7 Pro) AppleWebKit/537.36 Chrome/113.0.0.0 Mobile Safari/537.36  
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 Version/15.4 Mobile/15E148 Safari/604.1  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/112.0.5615.49 Safari/537.36  
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_8) AppleWebKit/537.36 Chrome/111.0.5563.64 Safari/537.36  
+Mozilla/5.0 (Linux; Android 9; SM-G960F) AppleWebKit/537.36 Chrome/110.0.5481.77 Mobile Safari/537.36  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:110.0) Gecko/20100101 Firefox/110.0  
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 Version/13.1 Safari/605.1.15  
+Mozilla/5.0 (Linux; Android 8.1.0; Nexus 5X) AppleWebKit/537.36 Chrome/109.0.5414.87 Mobile Safari/537.36  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/108.0.5359.125 Safari/537.36  
+Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/108.0  
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/107.0.5304.110 Safari/537.36

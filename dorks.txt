@@ -1,0 +1,45 @@
+intext:"password" site:{domain}
+intext:"api_key" site:{domain}
+intext:"token" site:{domain}
+intext:"secret" site:{domain}
+inurl:login site:{domain}
+inurl:admin site:{domain}
+inurl:signup OR inurl:register site:{domain}
+intitle:"admin panel" site:{domain}
+intitle:"dashboard" site:{domain}
+ext:env site:{domain}
+filetype:conf site:{domain}
+filetype:ini site:{domain}
+filetype:cfg site:{domain}
+filetype:properties site:{domain}
+filetype:yaml site:{domain}
+filetype:json site:{domain}
+filetype:xml site:{domain}
+filetype:dockerfile site:{domain}
+filetype:htaccess site:{domain}
+filetype:htpasswd site:{domain}
+filetype:bak site:{domain}
+filetype:old site:{domain}
+filetype:bak.old site:{domain}
+intitle:"index of" site:{domain}
+filetype:log site:{domain}
+filetype:sql site:{domain}
+filetype:db site:{domain}
+filetype:sqlite site:{domain}
+intext:"sql syntax near" site:{domain}
+intext:"unexpected error" site:{domain}
+filetype:php site:{domain}
+filetype:asp site:{domain}
+filetype:aspx site:{domain}
+filetype:jsp site:{domain}
+filetype:ps1 site:{domain}
+filetype:sh site:{domain}
+filetype:inc site:{domain}
+site:drive.google.com {domain}
+site:docs.google.com {domain}
+site:github.com {domain}
+site:gitlab.com {domain}
+site:bitbucket.org {domain}
+site:pastebin.com {domain}
+filetype:pdf site:{domain}
+filetype:csv site:{domain}
