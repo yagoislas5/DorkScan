@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/DorkScan.png" alt="DorkScan Logo" width="400"/>
+</p>
+
 # DorkScan
 
 DorkScan is an automated Google Dorks scanning tool that uses Brave Search. It is designed for security researchers, OSINT professionals, and ethical hacking enthusiasts who want to identify exposed resources on specific domains.
@@ -112,7 +116,10 @@ This project is distributed under the **Non-Commercial Use License – Yago 2025
 For more details, see the `LICENSE` file.
 
 ---
+#### Estado del proyecto
+DorkScan se encuentra actualmente fuera de funcionamiento. Google ha detectado el patrón de automatización utilizado por la herramienta y ha implementado un CAPTCHA en sus resultados, lo que impide la ejecución automática de las búsquedas. Estamos evaluando alternativas y motores de búsqueda más permisivos para futuras versiones.
 
+---
 ## Contact
 
 For inquiries, collaborations, or commercial arrangements, you can contact the author via their GitHub profile:
